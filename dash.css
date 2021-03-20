@@ -1,0 +1,98 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+html, body { height: 100%; width: 100%; margin: 0; }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+  }
+  
+
+.navbar-brand{
+  margin-left: 4%;
+}
+
+h2{
+  padding:1%;
+  text-align: center;
+  color:#6b6969;
+}
+
+  .flex-container {
+    margin:0% 10%;
+    display: flex;
+    flex-wrap:wrap;
+
+  }
+ 
+
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 0px;
+    text-align: center;
+    
+  }
+/*Responsive layout - makes a one column-layout instead of a two-column layout */
+  /*   @media (max-width: 800px) {
+      .flex-container {
+         display: flex;
+           flex-wrap:wrap;
+      
+    }
+  }
+
+*/
+
+
+footer {
+  background-color: #4d4d4d;
+  border-top: 1px solid #c1e1ec;
+  height: 50px;
+  line-height: 50px;
+  margin-bottom: 0;
+}
+
+footer p {
+  line-height: 50px;
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*barchat*/
+
+/* responsive */
+
+/*
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+*/
+
+
+
+
+
+/*horizontalbarchart_countries*/
+
+
+
+/*figures*/
